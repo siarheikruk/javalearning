@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9063750-4701-4fae-ac70-e0b064df0f4b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/javalearning.iml" afterPath="$PROJECT_DIR$/javalearning.iml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/kruk/siarhei/FirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/kruk/siarhei/FirstTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,7 +69,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="433" />
     <option name="y" value="285" />
     <option name="width" value="1346" />
@@ -360,9 +357,21 @@
     <history-entry file="FirstTest - 2018.05.09 at 19h 38m 32s.xml">
       <configuration name="FirstTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FirstTest - 2018.05.09 at 19h 40m 54s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.05.09 at 19h 42m 03s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.05.09 at 19h 43m 11s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2018.05.09 at 19h 44m 03s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
