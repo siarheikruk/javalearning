@@ -26,9 +26,9 @@ public class FirstTest {
     }
     @Test
     public void userLogin() {
-        WebElement loginField = driver.findElement(By.id("login"));
+        WebElement loginField = driver.findElement(By.id("id-1"));
         loginField.sendKeys("autotestorgua");
-        WebElement passwordField = driver.findElement(By.id("password"));
+        WebElement passwordField = driver.findElement(By.id("id-2"));
         passwordField.sendKeys("testpass");
         WebElement loginButton = driver.findElement(By.xpath("//button[text()='Войти']"));
         loginButton.click();
